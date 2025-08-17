@@ -1,9 +1,6 @@
 
 # Railway Ticket Booking System
 
-## Project Title
-**Railway Ticket Booking System**
-
 ## Project Background
 Railway ticket booking systems are essential for efficiently managing reservations in a railway network. This project aims to develop a robust system that allows users to search for trains, book tickets, and manage reservations online.
 
